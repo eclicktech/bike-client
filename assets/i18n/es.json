@@ -1,0 +1,103 @@
+{
+  "home": {
+    "heading": "Suchen Sie ein Fahrrad, ein Ersatzteil oder ein Zubehör?",
+    "subHeading": "Wir haben es für Sie",
+    "searchPlaceHolder" : "Wonach suchen Sie?",
+    "search" : "Suche",
+    "advancedSearch" : "Erweiterte Suche",
+    "latestAnnounces" : "Neueste Ankündigungen",
+    "recentlyViewed" : "Zuletzt Angesehen",
+    "noMoreItems" : "Es können keine Artikel mehr geladen werden. Bitte besuchen Sie die erweiterte Suche",
+    "relevantToday": "Heute relevant",
+    "blog" : "Blog",
+    "moreForYou" : "MEHR FÜR DICH",
+    "peopleSearching" : "Leute suchen"
+  },
+  "footer" : {
+    "mainHeading" : "Kaufen, verkaufen o tauschen Sie Fahrräder in Wien",
+    "subHeading" : "Melden Sie sich an und treten Sie unserer Community bei, exklusiv für die Wiener."
+  },
+  "advancedSearch" : {
+    "price": "Preis",
+    "year": "Jahr",
+    "brand": "Marke",
+    "condition": "Bedingung",
+    "type" : "Art",
+    "color" : "Farbe",
+    "search" : "Suche",
+    "resetFilter" : "Filter zurücksetzen",
+    "reportProblem" : "Ein Problem melden",
+    "loadMore" : "Mehr laden",
+    "resultsFound" : "Ergebnis gefunden",
+    "noMoreProductsAvailable" : "Keine Produkte verfügbar"
+  },
+  "singleProduct" : {
+    "contact" : "Kontakt",
+    "chatNow" : "Jetzt chatten",
+    "sendAnEmail" : "Eine E-Mail senden",
+    "reportUser" : "Benutzer melden",
+    "reportProblem" : "Problem melden",
+    "specification" : "Spezifikationen",
+    "description" : "Beschreibung",
+    "productDoesNotExist" : "Dieses Produkt existiert nicht",
+    "contactSeller" : "Verkäufer kontaktieren",
+    "title" : "Titel",
+    "message" : "Botschaft",
+    "sendMessage": "NACHRICHT SENDEN",
+    "showLocation" : "Standort anzeigen"
+  },
+  "sellerProfile": {
+    "contact" : "Kontakt",
+    "chatNow" : "Jetzt chatten",
+    "sendAMessage": "Eine Nachricht schicken",
+    "reportUser": "Report User",
+    "personalInformation": "Benutzer melden",
+    "contactInformation" : "Kontakt Informationen",
+    "profile" : "Profil",
+    "posts" : "Beiträge",
+    "conversation" : "Gespräche"
+  },
+  "addProduct" : {
+    "heading": "Fügen Sie Ihr Produkt hinzu",
+    "title" : "Titel",
+    "city" : "Stadt",
+    "street" : "Straße",
+    "specifications" : "Spezifikationen",
+    "condition" : "Bedingung",
+    "type" : "Art",
+    "year" : "Jahr",
+    "brand" : "Marke",
+    "color" : "Farbe",
+    "price" : "Preis",
+    "isNegotiable" : "Preis ist verhandelbar",
+    "acceptChanges" : "Akzeptiere den Austausch",
+    "description" : "Beschreibung",
+    "addPhotos" : "Fotos hinzufügen",
+    "addProduct" : "Produkt hinzufügen"
+  },
+  "editProduct" : {
+    "heading": "BEARBEITEN SIE IHR PRODUKT",
+    "title" : "Titel",
+    "city" : "Stadt",
+    "street" : "Straße",
+    "specifications" : "Spezifikationen",
+    "condition" : "Bedingung",
+    "type" : "Art",
+    "year" : "Jahr",
+    "brand" : "Marke",
+    "color" : "Farbe",
+    "price" : "Preis",
+    "isNegotiable" : "Preis ist verhandelbar",
+    "acceptChanges" : "Akzeptiere den Austausch",
+    "description" : "Beschreibung",
+    "addPhotos" : "Fotos hinzufügen",
+    "addProduct" : "Produkt hinzufügen"
+  },
+  "productAddSuccessModal" : {
+    "phrase1" : "SIE HINZUFÜGEN WURDE ERFOLGREICH VERÖFFENTLICHT.",
+    "phrase2" : "VERKAUFEN SIE ES ONLINE, UM AUCH SCHNELLER ZU VERKAUFEN",
+    "sellBike" : "Verkaufe ein anderes Fahrrad",
+    "searchBikes" : "Suche nach Fahrrädern",
+    "seeProduct" : "Siehe dein Hinzufügen"
+  }
+}

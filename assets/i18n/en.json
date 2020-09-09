@@ -1,0 +1,103 @@
+{
+  "home": {
+    "heading": "Looking for a bike, a spare part or an accessory?",
+    "subHeading": "We have it for you",
+    "searchPlaceHolder": "What are you looking for?",
+    "search" : "Search",
+    "advancedSearch" : "ADVANCED SEARCH",
+    "latestAnnounces" : "Latest Announces",
+    "recentlyViewed" : "Recently Viewed",
+    "noMoreItems" : "no more items can be loaded please visit advanced search",
+    "relevantToday": "Relevant Today",
+    "blog" : "Blog",
+    "moreForYou" : "MORE FOR YOU",
+    "peopleSearching" : "People Searching"
+  },
+  "footer" : {
+    "mainHeading" : "Buy, Sell or Exchange your bikes in Vienna",
+    "subHeading" : "Sign Up and join our community, exclusive for Vienna's residents."
+  },
+  "advancedSearch" : {
+    "price": "Price",
+    "year": "Year",
+    "brand": "Brand",
+    "condition": "Condition",
+    "type" : "Type",
+    "color" : "Color",
+    "search" : "Search",
+    "resetFilter" : "Reset Filters",
+    "reportProblem" : "Report a problem",
+    "loadMore" : "Load More",
+    "resultsFound" : "Result Found",
+    "noMoreProductsAvailable" : "No products available"
+  },
+  "singleProduct" : {
+    "contact" : "Contact",
+    "chatNow" : "Chat Now",
+    "sendAnEmail" : "Send an email",
+    "reportUser" : "Report user",
+    "reportProblem" : "Report a problem",
+    "specification" : "Specifications",
+    "description" : "Description",
+    "productDoesNotExist" : "This product does not exist",
+    "contactSeller" : "Contact Seller",
+    "title" : "Title",
+    "message" : "Message",
+    "sendMessage": "SEND MESSAGE",
+    "showLocation" : "Show location"
+  },
+  "sellerProfile": {
+    "contact" : "Contact",
+    "chatNow" : "Chat Now",
+    "sendAMessage": "Send a message",
+    "reportUser": "Report User",
+    "personalInformation": "Personal Information",
+    "contactInformation" : "Contact Information",
+    "profile" : "Profile",
+    "posts" : "Posts",
+    "conversation" : "Conversations"
+  },
+  "addProduct" : {
+    "heading": "ADD YOUR PRODUCT",
+    "title" : "Title",
+    "city" : "City",
+    "street" : "Street",
+    "specifications" : "Specifications",
+    "condition" : "Condition",
+    "type" : "Type",
+    "year" : "Year",
+    "brand" : "Brand",
+    "color" : "Color",
+    "price" : "Price",
+    "isNegotiable" : "Price is negotiable",
+    "acceptChanges" : "Accept exchange",
+    "description" : "Description",
+    "addPhotos" : "Add photos",
+    "addProduct" : "Add Product"
+  },
+  "editProduct" : {
+  "heading": "EDIT YOUR PRODUCT",
+  "title" : "Title",
+  "city" : "City",
+  "street" : "Street",
+  "specifications" : "Specifications",
+  "condition" : "Condition",
+  "type" : "Type",
+  "year" : "Year",
+  "brand" : "Brand",
+  "color" : "Color",
+  "price" : "Price",
+  "isNegotiable" : "Price is negotiable",
+  "acceptChanges" : "Accept exchange",
+  "description" : "Description",
+  "addPhotos" : "Add photos",
+  "addProduct" : "Add Product"
+  },
+  "productAddSuccessModal" : {
+    "phrase1" : "YOU ADD HAS BEEN SUCCESSFULLY POSTED. ",
+    "phrase2" : "SELL IT ONLINE TO SELL EVEN QUICKER",
+    "sellBike" : "Sell another bike",
+    "searchBikes" : "Search for bikes",
+    "seeProduct" : "See your add"
+  }
+}
